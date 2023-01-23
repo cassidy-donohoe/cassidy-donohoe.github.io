@@ -5,32 +5,32 @@ body {
 }
 
 .sidebar h1 {
-  font-family: "Playfair Display", serif;
-  font-size: 350%;
+  font-family: "EB Garamond", serif;
+  font-size: 200%;
   color: #FEF9E7;
   display: block;
   padding: 16px;
   padding-top: 0;
   margin:0;
   font-weight: 600;
-  text-align: center;
+  text-align: left ;
 }
 
 .sidebar h2 {
-  font-family: "Playfair Display", serif;
-  font-size: 150%;
+  font-family: "EB Garamond", serif;
+  font-size: 100%;
   color: #FEF9E7;
   display: block;
   padding: 16px;
   margin: 0;
   font-weight: 400;
   font-style: italic;
-  text-align: center;
+  text-align: left;
 }
 
 .sidebar h3{
-  font-family: "Playfair Display", serif;
-  color: #d3d3da;
+  font-family: "EB Garamond", serif;
+  color: #FEF9E7;
   display: block;
   padding: 16px;
   margin: 0;
@@ -43,15 +43,15 @@ body {
 }
 
 .content h1 {
-  font-family: "Playfair Display", serif;
+  font-family: "EB Garamond", serif;
 }
 
 .content h2 {
-  font-family: "Playfair Display", serif;
+  font-family: "EB Garamond", serif;
 }
 
 .content p {
-  font-family: "Roboto", serif;
+  font-family: "Gill Sans", sans-serif;
   font-size: 130%;
   
 }
@@ -66,7 +66,7 @@ body {
 }
 
 .content p + ul {
-  margin-top: -15px;
+  margin-top: -10px;
 }
 
 .content a {
@@ -76,8 +76,8 @@ body {
 }
 
 #footer p {
-  font-family: "Playfair Display", serif;
-  text-align: center;
+  font-family: "EB Garamond", serif;
+  text-align: left;
 }
 
 #footer {
@@ -90,7 +90,7 @@ body {
 
 /* Page content. The content margin-left must match the sidebar width */
 div.content {
-  margin-left: 350px;    /* <--- CHANGE US TOGETHER*/
+  margin-left: 275px;    /* <--- CHANGE US TOGETHER*/
   padding-top: 75px;
   padding-left: 25px;
   padding-right: 16px;
@@ -101,7 +101,7 @@ div.content {
 .sidebar {
   margin: 0;
   padding: 0;
-  width: 350px;          /* <--- CHANGE US TOGETHER */
+  width: 250px;          /* <--- CHANGE US TOGETHER */
   background-color: #FFBF00;
   position: fixed;
   height: 100%;
@@ -110,18 +110,18 @@ div.content {
 
 /* Sidebar links */
 .sidebar a {
-  font-family: "Playfair Display", serif;
+  font-family: "Gill Sans", sans-serif;
   display: block;
   color: #FEF9E7;
-  padding: 16px;
-  padding-right: 30px;
+  padding: 20px;
+  padding-right: 25px;
   text-decoration: none;
-  text-align: right;
-  font-size: 125%;
+  text-align: left;
+  font-size: 100%;
 }
 
 #colophon a {
-  font-family: "Playfair Display", serif;
+  font-family: "EB Garamond", serif;
   font-size: 100%;
   color: #FEF9E7;
   display: block;
@@ -134,7 +134,7 @@ div.content {
 
 /* Active/current link */
 .sidebar a.active {
-  background-color: #4c4a6c;
+  background-color: #9B0031;
   color: #d3d3da;
 }
 

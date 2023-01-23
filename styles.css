@@ -1,5 +1,5 @@
 body {
-	background-color: #f1f1f9;
+	background-color: #FEF9E7;
 	margin: 0;
   	padding: 0;
 }
@@ -7,7 +7,7 @@ body {
 .sidebar h1 {
   font-family: "Playfair Display", serif;
   font-size: 350%;
-  color: #d3d3da;
+  color: #FEF9E7;
   display: block;
   padding: 16px;
   padding-top: 0;
@@ -19,7 +19,7 @@ body {
 .sidebar h2 {
   font-family: "Playfair Display", serif;
   font-size: 150%;
-  color: #d3d3da;
+  color: #FEF9E7;
   display: block;
   padding: 16px;
   margin: 0;
@@ -102,7 +102,7 @@ div.content {
   margin: 0;
   padding: 0;
   width: 350px;          /* <--- CHANGE US TOGETHER */
-  background-color: #262536;
+  background-color: #FFBF00;
   position: fixed;
   height: 100%;
   overflow: auto;
@@ -112,7 +112,7 @@ div.content {
 .sidebar a {
   font-family: "Playfair Display", serif;
   display: block;
-  color: #d3d3da;
+  color: #FEF9E7;
   padding: 16px;
   padding-right: 30px;
   text-decoration: none;
@@ -123,7 +123,7 @@ div.content {
 #colophon a {
   font-family: "Playfair Display", serif;
   font-size: 100%;
-  color: #d3d3da;
+  color: #FEF9E7;
   display: block;
   padding: 0px;
   padding-top: 0;
@@ -140,8 +140,8 @@ div.content {
 
 /* Links on mouse-over */
 .sidebar a:hover:not(.active) {
-  background-color: #393751;
-  color: #d3d3da;
+  background-color: #9B0031;
+  color: #FEF9E7;
 }
 
 #colophon a:hover:not(.active) {

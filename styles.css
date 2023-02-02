@@ -1,5 +1,5 @@
 body {
-	background-color: #FEF9E7;
+	background-color: #FFFFF4;
 	margin: 0;
   	padding: 0;
 }
@@ -135,7 +135,7 @@ div.content {
 /* Active/current link */
 .sidebar a.active {
   background-color: #9B0031;
-  color: #d3d3da;
+  color: #FEF9E7;
 }
 
 /* Links on mouse-over */

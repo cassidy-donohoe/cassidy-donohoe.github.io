@@ -43,11 +43,14 @@ body {
 }
 
 .content h1 {
-  font-family: "EB Garamond", serif;
+  font-family: "Garamond", serif;
+    font-size: 130%
 }
 
 .content h2 {
   font-family: "EB Garamond", serif;
+    font-size: 120%;
+    font-style: italic;
 }
 
 .content p {
@@ -93,7 +96,7 @@ div.content {
   margin-left: 275px;    /* <--- CHANGE US TOGETHER*/
   padding-top: 75px;
   padding-left: 25px;
-  padding-right: 16px;
+  padding-right: 50px;
   height: 1000px;
 }
 
@@ -162,7 +165,7 @@ div.content {
   div.content{
   padding-top: 30px;
   padding-left: 10px;
-  padding-right: 10px;
+  padding-right: 30px;
   }
 
 }

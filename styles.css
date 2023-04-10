@@ -73,7 +73,7 @@ body {
 }
 
 .content a {
-  color: #4c4a6c;
+  color: #9B0031;
   font-weight: 600;
   text-decoration: none;
 }
@@ -97,7 +97,7 @@ div.content {
   padding-top: 75px;
   padding-left: 25px;
   padding-right: 50px;
-  height: 1000px;
+  height: 1100px;
 }
 
  /* The side navigation menu */
@@ -148,8 +148,8 @@ div.content {
 }
 
 #colophon a:hover:not(.active) {
-  background-color: 262536;
-  color: #d3d3da;
+  background-color: #FEF9E7;
+  color: #FEF9E7;
 }
 
 /* On screens that are less than 700px wide, make the sidebar into a topbar */

@@ -1,4 +1,8 @@
+html {
+    height: 100%;
+}
 body {
+    min-height: 100vh;
 	background-color: #FFFFF4;
 	margin: 0;
   	padding: 0;
@@ -108,7 +112,7 @@ div.content {
   padding-top: 75px;
   padding-left: 25px;
   padding-right: 50px;
-  height: 1200px;
+    padding-bottom: 30px;
 }
 
  /* The side navigation menu */

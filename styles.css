@@ -58,7 +58,18 @@ body {
   font-size: 130%;
   
 }
+.content pi {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 130%;
+    font-style: oblique;   
 
+}
+.content pb {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 130%;
+    font-weight: 600;
+    line-height: inherit;
+}
 .content li {
   font-family: "Roboto", serif;
   font-size: 130%;  
@@ -75,7 +86,7 @@ body {
 .content a {
   color: #9B0031;
   font-weight: 600;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 #footer p {
@@ -97,7 +108,7 @@ div.content {
   padding-top: 75px;
   padding-left: 25px;
   padding-right: 50px;
-  height: 1100px;
+  height: 1200px;
 }
 
  /* The side navigation menu */
@@ -166,6 +177,7 @@ div.content {
   padding-top: 30px;
   padding-left: 10px;
   padding-right: 30px;
+  padding-bottom: 30px;
   }
 
 }
@@ -182,5 +194,6 @@ div.content {
   padding-top: 30px;
   padding-left: 10px;
   padding-right: 10px;
+
   }
 } 

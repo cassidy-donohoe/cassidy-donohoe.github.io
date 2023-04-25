@@ -11,7 +11,7 @@ body {
 .sidebar h1 {
   font-family: "EB Garamond", serif;
   font-size: 200%;
-  color: #FEF9E7;
+  color: #581845;
   display: block;
   padding: 16px;
   padding-top: 0;
@@ -120,7 +120,7 @@ div.content {
   margin: 0;
   padding: 0;
   width: 250px;          /* <--- CHANGE US TOGETHER */
-  background-color: #FFBF00;
+  background-color: #EFB710;
   position: fixed;
   height: 100%;
   overflow: auto;

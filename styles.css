@@ -155,10 +155,9 @@ div.content {
 div.front {
   margin-left: 200px;/* <--- CHANGE US TOGETHER*/
   margin-right: 200px;
-    padding-top: 75px;
+    padding-top: 50px;
   padding-left: 25px;
   padding-right: 50px;
-      padding-bottom: -50px;
     
 }
  /* The side navigation menu */

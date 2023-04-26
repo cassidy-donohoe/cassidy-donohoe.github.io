@@ -11,7 +11,7 @@ body {
 .sidebar h1 {
   font-family: "EB Garamond", serif;
   font-size: 200%;
-  color: #581845;
+  color: #FEF9E7;
   display: block;
   padding: 16px;
   padding-top: 0;
@@ -46,6 +46,44 @@ body {
   padding-top: 20px;
 }
 
+.front h1 {
+  font-family: "Garamond", serif;
+    font-size: 700%;
+    font-variant: small-caps
+}
+
+.front h2 {
+  font-family: "EB Garamond", serif;
+    font-size: 120%;
+}
+
+.front h3 {
+  font-family: "EB Garamond", serif;
+    font-size: 300%;
+    font-style: italic;
+}
+
+.front p {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 130%;
+  
+}
+.front pi {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 130%;
+    font-style: oblique;   
+
+}
+.content pb {
+  font-family: "Gill Sans", sans-serif;
+  font-size: 130%;
+    font-weight: 600;
+    line-height: inherit;
+}
+.content li {
+  font-family: "Roboto", serif;
+  font-size: 130%;  
+}
 .content h1 {
   font-family: "Garamond", serif;
     font-size: 130%
@@ -114,11 +152,19 @@ div.content {
   padding-right: 50px;
     padding-bottom: 30px;
 }
-
+div.front {
+  margin-left: 200px;/* <--- CHANGE US TOGETHER*/
+  margin-right: 200px;
+    padding-top: 75px;
+  padding-left: 25px;
+  padding-right: 50px;
+      padding-bottom: -50px;
+    
+}
  /* The side navigation menu */
 .sidebar {
-  margin: 0;
-  padding: 0;
+  margin: ;
+  padding: ;
   width: 250px;          /* <--- CHANGE US TOGETHER */
   background-color: #EFB710;
   position: fixed;

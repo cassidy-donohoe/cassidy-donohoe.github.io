@@ -46,10 +46,19 @@ body {
   padding-top: 20px;
 }
 
+.topbar h1 {
+    
+    font-family: "Garamond", serif;
+    font-size: 100%;
+    font-variant: ;
+    color: #FFFFF4
+}
+
 .front h1 {
   font-family: "Garamond", serif;
     font-size: 700%;
-    font-variant: small-caps
+    font-variant: small-caps;
+        color: 
 }
 
 .front h2 {
@@ -158,19 +167,33 @@ div.front {
     padding-top: 50px;
   padding-left: 25px;
   padding-right: 50px;
-    
+}
+div.topbar {
+  margin-left: px;/* <--- CHANGE US TOGETHER*/
+  margin-right: 200px;
+    padding-top: px;
+  padding-left: 25px;
+  padding-right: 50px;
 }
  /* The side navigation menu */
 .sidebar {
   margin: ;
-  padding: ;
+  padding-top: 50px;
   width: 250px;          /* <--- CHANGE US TOGETHER */
   background-color: #EFB710;
   position: fixed;
   height: 100%;
   overflow: auto;
 }
-
+.topbar {
+  margin: ;
+  padding-top: ;
+  width: 100%;          /* <--- CHANGE US TOGETHER */
+  background-color: #9B0031;
+  position: fixed;
+  height: 50px;
+  overflow: auto;
+}
 /* Sidebar links */
 .sidebar a {
   font-family: "Gill Sans", sans-serif;
